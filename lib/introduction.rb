@@ -3,5 +3,3 @@ def greeting (name, language)
 end
 
 greeting (rico, ruby)
-
-
