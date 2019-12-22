@@ -1,5 +1,2 @@
-def greeting (name, language)
-  puts "hola, me llamo #{name} y soy #{language} programmer"
+def introduction
 end
-
-greeting (rico, ruby)
